@@ -10,7 +10,7 @@ These labs highlight my ability to implement, test, and document security contro
 
 ## 📂 Lab Index
 
-1. [Conditional Access Lab](./conditional-access-lab.md)  
+1. [Conditional Access Lab](./Block High-Risk Countries with Conditional Access.md)  
    Configure and test Entra ID Conditional Access (require MFA, block risky logins).
 
 2. **Defender for Office 365 – Phishing Simulation**  
