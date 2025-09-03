@@ -60,13 +60,23 @@ Demonstrate how to create and test a Microsoft Entra **Conditional Access policy
 
 ---
 
-## 📸 Screenshots to Capture
-- Policy creation screen (with Block access).   
-- NordVPN connected to the blocked country
-. 
-- IP address verification (WhatIsMyIPAddress).
-- Sign-in logs → “Report-only: Failure.” 
-- Final blocked login screen (after enabling policy).
+## 📸 Screenshots
+
+### 1. Policy Creation
+![Policy creation screen](./screenshots/policy-settings.png)
+
+### 2. VPN Connected
+![NordVPN connected to blocked country](./screenshots/vpn-connected.png)
+
+### 3. IP Verification
+![IP address verification](./screenshots/ip-check.png)
+
+### 4. Sign-in Logs
+![Sign-in logs showing Report-only Failure](./screenshots/signin-logs-failure.png)
+
+### 5. Blocked Login
+![Final blocked login screen](./screenshots/blocked-login.png)
+
  
 ---
 
